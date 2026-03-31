@@ -4,9 +4,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/du3J262sxUUpgg/giphy.gif" width="320" alt="Itachi Uchiha" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(232, 69, 69, 0.3);" />
-
-<br/><br/>
+<br/>
 
 > *"Those who turn their hands against their comrades are sure to die a terrible death. Be prepared."* — Itachi Uchiha
 
@@ -89,18 +87,6 @@ const sahil = {
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sahilserrka&color=E84545&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7aD4dOo2jfrQWtiY/giphy.gif" width="300" alt="Thanks GIF" style="border-radius: 12px;" />
-
-</div>
-
-<br/>
 
 *"People's lives don't end when they die. It ends when they lose faith."*
 
