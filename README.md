@@ -75,24 +75,6 @@ const sahil = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/kdFc8fufg2ZS0/giphy.gif" width="400" alt="Coding GIF" style="border-radius: 12px;" />
-
-</div>
-
-<br/>
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏢 **ERP Desktop App** | Enterprise offline-first ERP with IPC architecture | Electron, React, PouchDB |
-| 💬 **JS:MEDIA** | Social platform with real-time chat — 34% more engagement | MERN, Socket.io, JWT |
-| ✈️ **TripIt Booking** | Travel booking system with real-time pricing APIs | MERN, Docker, Redux |
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
