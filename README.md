@@ -61,13 +61,13 @@ const sahil = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahilserrka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E84545&icon_color=E84545&text_color=ffffff&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=JScoder-git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E84545&icon_color=E84545&text_color=ffffff&border_radius=10" width="48%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilserrka&theme=radical&hide_border=true&background=0D1117&ring=E84545&fire=E84545&currStreakLabel=E84545&border_radius=10" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JScoder-git&theme=radical&hide_border=true&background=0D1117&ring=E84545&fire=E84545&currStreakLabel=E84545&border_radius=10" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilserrka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E84545&text_color=ffffff&border_radius=10" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JScoder-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E84545&text_color=ffffff&border_radius=10" width="40%" />
 
 </div>
 
