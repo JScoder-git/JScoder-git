@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E84545&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sahil+Singh+%F0%9F%91%8B;MERN+Stack+Developer;Electron.js+%7C+Offline-First+Systems;Building+things+that+actually+work+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=E84545&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sahil+Singh+%F0%9F%91%8B;MERN+Stack+Developer;Electron.js+%7C+Offline-First+Systems;Building+things+that+actually+work+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://i.pinimg.com/originals/d1/4e/04/d14e04b3a8e57b5fd43c12be7a63cbab.gif" width="280" alt="Itachi Uchiha" style="border-radius: 12px;" />
+<img src="https://media.giphy.com/media/du3J262sxUUpgg/giphy.gif" width="320" alt="Itachi Uchiha" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(232, 69, 69, 0.3);" />
 
 <br/><br/>
 
@@ -39,41 +39,23 @@ const sahil = {
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python,sql" />
-</p>
+<div align="center">
 
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,electron,mongodb,html,css,tailwind,git,github,docker,linux,vscode,webpack,postman,graphql,cpp,java,python,sql" />
 
-### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman" />
-</p>
+</div>
 
-### Desktop & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=electron,mongodb" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PouchDB-E5252A?style=for-the-badge&logo=apache-couchdb&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-00ED64?style=for-the-badge&logo=mongodb&logoColor=black" />
-</p>
+<br/>
 
-### Real-Time & Messaging
-<p align="left">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-4353FF?style=for-the-badge&logo=websocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</p>
+<div align="center">
 
-### Tools & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,webpack" />
-</p>
+<img src="https://img.shields.io/badge/PouchDB-E5252A?style=for-the-badge&logo=apache-couchdb&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB_Atlas-00ED64?style=for-the-badge&logo=mongodb&logoColor=black" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-4353FF?style=for-the-badge&logo=websocket&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+
+</div>
 
 ---
 
@@ -94,6 +76,14 @@ const sahil = {
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/kdFc8fufg2ZS0/giphy.gif" width="400" alt="Coding GIF" style="border-radius: 12px;" />
+
+</div>
+
+<br/>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -121,6 +111,14 @@ const sahil = {
 <img src="https://komarev.com/ghpvc/?username=sahilserrka&color=E84545&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD4dOo2jfrQWtiY/giphy.gif" width="300" alt="Thanks GIF" style="border-radius: 12px;" />
+
+</div>
+
+<br/>
 
 *"People's lives don't end when they die. It ends when they lose faith."*
 
