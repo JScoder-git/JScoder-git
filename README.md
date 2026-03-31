@@ -25,7 +25,7 @@ const sahil = {
   stack     : ["React", "Node.js", "Electron.js", "MongoDB", "PouchDB"],
   education : "B.E. — Chandigarh University (2021–2025)",
   location  : "📍 Chandigarh, India",
-  contact   : "sahilserrka058@gmail.com",
+  contact   : "sahilserrka058@gmail.com | linkedin.com/in/sahilserrka",
   fun_fact  : "I make apps work even without internet 🌐❌",
 };
 ```
@@ -111,7 +111,6 @@ const sahil = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahilserrka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilserrka)
 [![Gmail](https://img.shields.io/badge/Gmail-sahilserrka058-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilserrka058@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sahilserrka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilserrka)
-[![Phone](https://img.shields.io/badge/Phone-+91--7889143859-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917889143859)
 
 </div>
 
