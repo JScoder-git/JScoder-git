@@ -4,6 +4,8 @@
 
 <br/>
 
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/24786.jpg" width="600" alt="Banner" style="border-radius: 16px;" />
+
 <br/>
 
 > *"Those who turn their hands against their comrades are sure to die a terrible death. Be prepared."* — Itachi Uchiha
